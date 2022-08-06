@@ -628,6 +628,10 @@
         width: 100%;
     }    
 
+    .subnav li {
+        background-color: #ccc;
+    }
+
     #slider .text-content {
         display: none;
     }
