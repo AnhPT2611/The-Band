@@ -172,8 +172,10 @@ button {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url(../imgs/chicago.jpg) top center / cover no-repeat;
+    background: top center / cover no-repeat;
+    background-image: url('../imgs/la.jpg');
     position: relative;
+    transition: all ease .5s;
 }
 
 #slider .text-content {
